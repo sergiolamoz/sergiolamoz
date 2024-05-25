@@ -10,9 +10,9 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="playwright" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VScode" width="40" height="40"/>&nbsp;             
+![Playwright](https://img.shields.io/badge/-Playwright-white?style=for-the-badge&logo=playwright)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=for-the-badge&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
+![gitlab](https://img.shields.io/badge/-gitlab-white?style=for-the-badge&logo=gitlab)
+![npm](https://img.shields.io/badge/-npm-white?style=for-the-badge&logo=npm)
+![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
